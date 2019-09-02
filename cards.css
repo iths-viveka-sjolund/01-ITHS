@@ -41,7 +41,7 @@ body{
     justify-content: space-around;
 }
 
-.p-top-grey{
+.section-grey p{
     margin-top: 2.5rem;
     width: 250px;
     color: rgb(0, 0, 0);
